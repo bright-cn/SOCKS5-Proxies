@@ -1,59 +1,59 @@
 # Bright Data SOCKS5 代理
 
-[![促销](https://github.com/bright-cn/SOCKS5-Proxies/blob/main/first-deposit-banner.PNG)](https://www.bright.cn/solutions/socks5-proxies)
+[![推广](https://github.com/bright-cn/SOCKS5-Proxies/blob/main/first-deposit-banner.PNG)](https://www.bright.cn/solutions/socks5-proxies) 
 
 ## 概述
-使用 Bright Data 的 Proxy Manager 发送 SOCKS5 代理服务器请求，凭借 Bright Data 的[SOCKS5 代理](https://www.bright.cn/proxy-types/socks5-proxies)享受无缝、极速的抓取体验。该产品兼具多功能、强匿名与卓越性能。
+使用 Bright Data 的代理管理发送 SOCKS5 代理服务器请求，并借助专为多功能性、匿名性和卓越性能而设计的 Bright Data [SOCKS5 代理](https://brightdata.com/proxy-types/socks5-proxies)，享受流畅、高速的抓取体验。
 
-- 支持 TCP 与 UDP 流量
-- 采用 SOCKS5 协议，兼容性强
-- 99.99% 成功率
-- 免费地理定向（国家、城市、州/省、邮编）
+- **支持 TCP 和 UDP 流量**
+- **采用 SOCKS5 协议，实现最佳兼容性**
+- **99.99% 的成功率**
+- **免费地理位置定位（国家/地区、城市、州、邮政编码）**
 
-## 关键特性
-- 全球覆盖：在[195 个国家/地区](https://www.bright.cn/locations)提供 SOCKS5 代理。
-- 高成功率：抓取与数据采集成功率可达 99.99%。
-- 响应迅速：连接可靠，延迟低。
-- 协议通用性强：适用于 HTTP、HTTPS、FTP 等多种协议。
-- 无限扩展：并发会话数量不受限制。
+## 主要功能
+- **全球覆盖**：SOCKS5 代理覆盖 [195 个国家/地区](https://www.bright.cn/locations)。
+- **高成功率**：抓取和数据采集成功率高达 99.99%。
+- **快速响应**：连接可靠，延迟极低。
+- **协议用途广泛**：适用于 HTTP、HTTPS、FTP 等协议。
+- **无限扩展**：并发会话数量不受限制。
 
 ## SOCKS5 代理定价
 
-### 住宅代理（Residential Proxies）
+### 住宅代理
 
-- 按量付费：$8.4/GB，无需月度承诺。
-- 月度订阅：
-- 69 GB：$7.14/GB，$499/月
-- 158 GB：$6.3/GB，$999/月
-- 339 GB：$5.88/GB，$1999/月
-- 企业方案：为大规模业务提供定制价格与专属解决方案
+- **按量付费**：$8/GB，无需按月承诺。
+- **月度订阅**：
+  - **71 GB**：$7/GB，每月 $499。
+  - **166 GB**：$6/GB，每月 $999。
+  - **399 GB**：$5/GB，每月 $1999。
+  - **企业套餐**：为大规模运营提供定制定价和解决方案。
 
-### ISP 代理
+ ### ISP 代理
 
-- 按量付费：$1.8/IP，无需月度承诺。
-- 月度订阅：
-- 10 IP：$1.8/IP，$18/月
-- 100 IP：$1.45/IP，$145/月
-- 500 IP：$1.4/IP，$700/月
-- 1,000 IP：$1.3/IP，$1,300/月
-- 企业方案：超过 1,000 IP 的业务可提供定制价格与方案
+- **按量付费**：$1.8/IP，无需按月承诺。
+- **月度订阅**：
+  - **10 个 IP**：$1.8/IP，每月 $18。
+  - **100 个 IP**：$1.45/IP，每月 $145。
+  - **500 个 IP**：$1.4/IP，每月 $700。
+  - **1,000 个 IP**：$1.3/IP，每月 $1,300。
+  - **企业套餐**：为需要 1,000 个以上 IP 的运营提供定制定价和解决方案。
+ 
+### 数据中心代理
 
-### 数据中心代理（Datacenter Proxies）
+- **按量付费**：$1.40/IP，无需按月承诺。
+- **月度订阅**：
+  - **10 个 IP**：$1.40/IP，每月 $14。
+  - **100 个 IP**：$1.00/IP，每月 $100。
+  - **500 个 IP**：$0.95/IP，每月 $475。
+  - **1,000 个 IP**：$0.90/IP，每月 $900。
+  - **企业套餐**：为需要 1,000 个以上 IP 的运营提供定制定价和解决方案。
 
-- 按量付费：$1.40/IP，无需月度承诺。
-- 月度订阅：
-- 10 IP：$1.40/IP，$14/月
-- 100 IP：$1.00/IP，$100/月
-- 500 IP：$0.95/IP，$475/月
-- 1,000 IP：$0.90/IP，$900/月
-- 企业方案：超过 1,000 IP 的业务可提供定制价格与方案
+注册后首次充值可获得等额赠金，最高 $500！
 
-注册并在首次充值获得等额赠送，最高 $500！
-
-## SOCKS5 代理快速开始
-1. 开始免费试用：无需信用卡。
-2. 集成：使用 Bright Data Proxy Manager 或 API 管理 SOCKS5 代理。
-3. 支持平台：可在 Python、Node.js、cURL 等中轻松配置 SOCKS5 代理。
+## SOCKS5 代理入门
+1. **开始免费试用**：无需信用卡。
+2. **集成**：使用 Bright Data 代理管理或 API 管理 SOCKS5 代理。
+3. **支持的平台**：可在 Python、Node.js、cURL 等平台中轻松配置 SOCKS5 代理。
 
 ## 代码示例
 
@@ -63,8 +63,8 @@
 import requests
 
 proxy = {
-http: "socks5h://[your username]:[your password]@brd.superproxy.io:22228",
-https: "socks5h://[your username]:[your password]@brd.superproxy.io:22228"
+    "http": "socks5h://[your username]:[your password]@brd.superproxy.io:22228",
+    "https": "socks5h://[your username]:[your password]@brd.superproxy.io:22228"
 }
 
 response = requests.get("https://geo.brdtest.com/mygeo.json", proxies=proxy)
@@ -77,74 +77,76 @@ print(response.json())
 const request = require("request-promise");
 
 const options = {
-url: "https://geo.brdtest.com/mygeo.json",
-proxy: "socks5h://[your username]:[your password]@brd.superproxy.io:22228",
+  url: "https://geo.brdtest.com/mygeo.json",
+  proxy: "socks5h://[your username]:[your password]@brd.superproxy.io:22228",
 };
 
 request(options)
-.then(function (response) {
-console.log(response);
-})
-.catch(function (err) {
-console.error(err);
-});
+  .then(function (response) {
+    console.log(response);
+  })
+  .catch(function (err) {
+    console.error(err);
+  });
 ```
 
 ### cURL
 
 ```shell
 curl -x socks5h://brd.superproxy.io:22228 \
---proxy-user [your username]:[your password] \
-https://geo.brdtest.com/mygeo.json
+     --proxy-user [your username]:[your password] \
+     "https://geo.brdtest.com/mygeo.json"
 ```
 
 ## 使用场景
-探索 SOCKS5 代理在各行业的多样化用途：
+探索 SOCKS5 代理在各行业中的广泛用途：
 
-- [电商](https://www.bright.cn/use-cases/ecommerce)：跟踪跨区域的商品价格、评价与库存。
-- [社交媒体](https://www.bright.cn/use-cases/social-media-for-marketing)：匿名监测趋势、互动与竞品动态。
-- [旅游](https://www.bright.cn/use-cases/travel)：通过精准地理定向对比各国及各地区的旅行优惠。
-- [金融服务](https://www.bright.cn/use-cases/financial)：安全采集实时市场数据并进行趋势分析。
+- [**电子商务**](https://www.bright.cn/use-cases/ecommerce)：追踪多个地区的产品价格、评论和库存情况。
+- [**社交媒体**](https://www.bright.cn/use-cases/social-media-for-marketing)：匿名监控趋势、互动情况和竞争对手活动。
+- [**旅游**](https://www.bright.cn/use-cases/travel)：通过精准的地理位置定位，比较不同国家和地区的旅游优惠。
+- [**金融服务**](https://www.bright.cn/use-cases/financial)：安全采集实时市场数据并分析趋势。
 
 ---
 
 ## 常见问题
 
 ### 什么是 SOCKS5 代理协议？
-SOCKS5 是一种通用的代理协议，可通过代理在客户端与服务器之间转发网络数据包。它同时支持 TCP 与 UDP 连接，适用于网页抓取、绕过限制与增强匿名性等多种应用场景。
+SOCKS5 是一种用途广泛的代理协议，可通过代理在客户端与服务器之间路由网络数据包。它同时支持 TCP 和 UDP 连接，适用于网页爬虫、绕过限制和增强匿名性等多种应用。
 
 ### SOCKS5 与 HTTP 代理有何不同？
-SOCKS5 相比 HTTP 代理在更低的网络层工作，可处理更广泛的流量类型，包括 HTTP、HTTPS、FTP、SMTP 等。同时，SOCKS5 不会修改网络数据包，匿名性更高。
+SOCKS5 的运行层级低于 HTTP 代理，因此可以处理更广泛的流量类型，包括 HTTP、HTTPS、FTP 和 SMTP。它不会修改网络数据包，因此还能提供更高的匿名性。
 
-### 如何在 Bright Data 服务中使用 SOCKS5 代理？
-Bright Data 在住宅、数据中心与 ISP 代理网络中均支持 SOCKS5。使用步骤：
-1. 将应用配置为使用 brd.superproxy.io，端口 22228。
-2. 使用你的 Bright Data 凭证进行身份验证。
-3. 采用 socks5h:// 协议，确保远程 DNS 解析。
+### 如何将 SOCKS5 代理与 Bright Data 服务搭配使用？
+Bright Data 的住宅代理、数据中心代理和 ISP 代理网络均支持 SOCKS5。要使用 SOCKS5：
+1. 将你的应用程序配置为通过端口 `22228` 使用 `brd.superproxy.io`。
+2. 使用你的 Bright Data 凭据进行身份验证。
+3. 确保通过 `socks5h://` 协议进行远程 DNS 解析。
 
 ### SOCKS5 代理的默认端口是什么？
-Bright Data 的 SOCKS5 代理默认端口为 22228。注意，HTTP（22225）与 HTTPS（22226）的标准端口不适用于 SOCKS5 连接。
+Bright Data 的默认 SOCKS5 代理端口为 `22228`。请注意，HTTP (`22225`) 和 HTTPS (`22226`) 的标准端口不适用于 SOCKS5 连接。
 
 ### 使用 SOCKS5 代理有哪些优势？
-- 高匿名性：隐藏你的 IP，连接更安全私密。
-- 多功能性：可处理 HTTP、HTTPS、FTP 等多种流量类型。
-- 绕过限制：跨越地域封锁、防火墙与审查。
-- 支持 TCP 与 UDP：覆盖更广泛的用例。
-- 稳定高效：依托 Bright Data 的强大基础设施，具备高可用与低延迟。
+SOCKS5 代理具备以下优势：
+- **高度匿名**：隐藏你的 IP，确保连接安全且私密。
+- **用途广泛**：可处理多种流量类型，包括 HTTP、HTTPS、FTP 等。
+- **绕过限制**：突破地理封锁、防火墙和审查限制。
+- **支持 TCP 和 UDP**：适用于各种使用场景。
+- **性能可靠**：凭借 Bright Data 强大的基础设施，实现高可用性和低延迟。
 
 ### 如何确保 SOCKS5 代理达到最佳性能？
-- 使用域名作为目标而非 IP。
-- 使用 socks5h:// 协议以启用远程 DNS 解析。
-- 使用 [Bright Data 的 Proxy Manager](https://www.bright.cn/products/proxy-manager) 获取 IP 轮换与请求优化等高级功能。
+要优化性能：
+1. 使用域名而非 IP 作为目标。
+2. 通过 `socks5h://` 协议配置远程 DNS 解析。
+3. 使用 [Bright Data 的代理管理](https://www.bright.cn/products/proxy-manager)，获取 IP 轮换和请求优化等高级功能。
 
-### SOCKS5 代理是否支持地理定向？
-支持。Bright Data 的 SOCKS5 代理可进行精确的地理定向。你可以通过修改用户名来指定国家、城市、州/省、邮编与 ASN（如：username-country-us 代表美国）。
+### 可以使用 SOCKS5 代理进行地理位置定位吗？
+可以，Bright Data 的 SOCKS5 代理支持精准的地理位置定位。你可以修改用户名来定位特定国家/地区、城市、州、邮政编码和 ASN（例如，使用 `username-country-us` 定位美国）。
 
-### SOCKS5 代理是否符合 Bright Data 的合规政策？
-是的。Bright Data 的 SOCKS5 代理遵循 GDPR 与 CCPA 规范，确保合规与道德使用数据。请按照相关指南操作以保持合规。
+### SOCKS5 代理是否符合 Bright Data 的政策？
+是的，Bright Data 的 SOCKS5 代理遵守 GDPR 和 CCPA 法规，确保合规且合乎道德地使用数据。请遵循所有相关准则，以保持合规。
 
 ### 使用 SOCKS5 代理有哪些限制？
-- IP 限制：仅支持以域名为目标；直接访问目标 IP 会被阻止。
-- 端口限制：SOCKS5 连接必须使用 22228 端口。
-- 远程 DNS：需要使用 socks5h:// 协议以实现合规的远程 DNS 解析。
-- 目标端口：仅支持大于 1024 的端口。
+- **IP 限制**：仅支持域名；直接向 IP 发出的请求会被阻止。
+- **端口限制**：SOCKS5 连接必须使用端口 `22228`。
+- **远程 DNS 解析**：为确保合规，必须使用 `socks5h://` 协议。
+- **目标端口**：仅支持高于 `1024` 的端口。
